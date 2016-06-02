@@ -1,0 +1,15 @@
+Waf: Entering directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+[1088/1890] cxx: src/ndnSIM/apps/ndn-consumer.cpp -> build/src/ndnSIM/apps/ndn-consumer.cpp.1.o
+In file included from ../src/ndnSIM/apps/ndn-consumer.cpp:20:0:
+../src/ndnSIM/apps/ndn-consumer.hpp: In constructor ‘ns3::ndn::Consumer::Consumer()’:
+../src/ndnSIM/apps/ndn-consumer.hpp:158:12: warning: ‘ns3::ndn::Consumer::m_timeoutCounter’ will be initialized after [-Wreorder]
+   uint32_t m_timeoutCounter;
+            ^
+../src/ndnSIM/apps/ndn-consumer.hpp:136:12: warning:   ‘uint32_t ns3::ndn::Consumer::m_seqMax’ [-Wreorder]
+   uint32_t m_seqMax;   ///< @brief maximum number of sequence number
+            ^
+../src/ndnSIM/apps/ndn-consumer.cpp:78:1: warning:   when initialized here [-Wreorder]
+ Consumer::Consumer()
+ ^
+Waf: Leaving directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+Interrupted 

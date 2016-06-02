@@ -1,0 +1,6 @@
+Waf: Entering directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+Waf: Leaving directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+'build' finished successfully (0.913s)
+msg="Invalid value for attribute set (NumberOfContents) on ns3::ndn::ConsumerZipfMandelbrot", file=../src/core/model/object-factory.cc, line=75
+terminate called without an active exception
+Command ['/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build/scratch/averageDistance', '--cRatio=0.0', '--cSize=100', '--d=0', '--p=1', '--RngRun=1', '--runNum=1', '--cType=f'] terminated with signal SIGIOT. Run it under a debugger to get more information (./waf --run <program> --command-template="gdb --args %s <args>").

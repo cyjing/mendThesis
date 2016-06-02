@@ -1,0 +1,810 @@
+[19:10:38.467] - ERROR - main/BerkeleyDBStore - Unable to create some directories for BerkeleyDB environment.
+[19:10:38.527] - ERROR - main/BerkeleyDBStore - Unable to create BerkeleyDB environment directory. File exists with same name: src/test/resources/berkeleydb.xml
+[19:10:38.605] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:10:38.605] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:38.619] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:38.620] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:38.627] - ERROR - main/IPv4UDPNAO - 127.0.0.1:5001
+[19:10:39.837] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:40.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:41.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:42.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:43.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:44.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:45.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:46.804] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:47.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:48.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:48.864] - INFO - Timer-0/BerkeleyDBStore$StatsTask - BDB Cache Misses: 18
+[19:10:49.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:50.805] - INFO - Timer-0/GNRSServer$StatsTask - 
+==Lookups==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+==Inserts==
+0.000 per second (Q: 0.0 us, P: 0.0 us, R: 0.0 us, S: 0.0 us, T: 0.0 us)
+Outstanding responses: 0
+
+[19:10:50.858] - INFO - main/GNRSServer - Generating CDF files.
+[19:10:50.952] - WARN - main/IPv4UDPAddress - Trying to create an IPv4/UDP address from an empty/null String.
+[19:10:50.953] - WARN - main/IPv4UDPAddress - Trying to create an IPv4/UDP address from an empty/null String.
+[19:10:50.954] - ERROR - main/IPv4UDPAddress - Unable to create InetSocketAddress from a null address.
+[19:10:50.954] - ERROR - main/IPv4UDPAddress - Unable to create InetSocketAddress from null bytes.
+[19:10:50.992] - INFO - main/IPv4UDPGUIDMapperTest - testBadHashingAlgorithm being run...
+[19:10:51.001] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:10:51.001] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:51.017] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:51.017] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:51.641] - ERROR - main/MessageDigestHasher$MessageDigestThreadLocal - Unable to create message digest from unsupported algorithm.
+java.security.NoSuchAlgorithmException: FOOBAR MessageDigest not available
+	at sun.security.jca.GetInstance.getInstance(GetInstance.java:142)
+	at java.security.Security.getImpl(Security.java:659)
+	at java.security.MessageDigest.getInstance(MessageDigest.java:129)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher$MessageDigestThreadLocal.initialValue(MessageDigestHasher.java:104)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher$MessageDigestThreadLocal.initialValue(MessageDigestHasher.java:79)
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:141)
+	at java.lang.ThreadLocal.get(ThreadLocal.java:131)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher.hash(MessageDigestHasher.java:131)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.IPv4UDPGUIDMapper.getAddressForType(IPv4UDPGUIDMapper.java:292)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.IPv4UDPGUIDMapper.getMapping(IPv4UDPGUIDMapper.java:263)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.IPv4UDPGUIDMapperTest.testBadHashingAlgorithm(IPv4UDPGUIDMapperTest.java:109)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.rules.TestWatchman$1.evaluate(TestWatchman.java:48)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:53)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:123)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:175)
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:107)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:68)
+[19:10:51.644] - ERROR - main/MessageDigestHasher - Unable to hash because "FOOBAR" is not supported.
+[19:10:51.644] - INFO - main/IPv4UDPGUIDMapperTest - testGetMapping being run...
+[19:10:51.648] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:10:51.649] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:51.659] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:51.660] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:51.661] - INFO - main/IPv4UDPGUIDMapperTest - testLoadPrefixes being run...
+[19:10:51.661] - INFO - main/IPv4UDPGUIDMapperTest - Testing prefixes.
+[19:10:51.665] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:10:51.665] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:51.678] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:51.678] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:51.679] - INFO - main/IPv4UDPGUIDMapperTest - testDistribution being run...
+[19:10:51.682] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:51.691] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:51.692] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:51.956] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:51.971] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:51.971] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:52.010] - INFO - main/IPv4UDPGUIDMapperTest - testExamplePrefixes0 being run...
+[19:10:52.432] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:52.434] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:52.434] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 200 ASes
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 0: 127.0.0.1:5069, 127.0.0.1:5046, 127.0.0.1:5176, 127.0.0.1:5165
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 14: 127.0.0.1:5087
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 17: 127.0.0.1:5158
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 19: 127.0.0.1:5021
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 20: 127.0.0.1:5144
+[19:10:56.480] - INFO - main/IPv4UDPGUIDMapperTest - 22: 127.0.0.1:5094
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 25: 127.0.0.1:5199
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 38: 127.0.0.1:5020
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 50: 127.0.0.1:5022
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 51: 127.0.0.1:5036, 127.0.0.1:5180
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 59: 127.0.0.1:5058
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 60: 127.0.0.1:5006
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 64: 127.0.0.1:5113
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 67: 127.0.0.1:5095, 127.0.0.1:5086
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 76: 127.0.0.1:5152
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 84: 127.0.0.1:5112
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 91: 127.0.0.1:5039
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 100: 127.0.0.1:5070
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 104: 127.0.0.1:5106
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 126: 127.0.0.1:5091
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 224: 127.0.0.1:5044
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 228: 127.0.0.1:5141
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 234: 127.0.0.1:5173
+[19:10:56.481] - INFO - main/IPv4UDPGUIDMapperTest - 241: 127.0.0.1:5196
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 245: 127.0.0.1:5055
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 246: 127.0.0.1:5166
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 251: 127.0.0.1:5065
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 255: 127.0.0.1:5085
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 260: 127.0.0.1:5104
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 279: 127.0.0.1:5076
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 286: 127.0.0.1:5053
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 287: 127.0.0.1:5109
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 362: 127.0.0.1:5197
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 407: 127.0.0.1:5159
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 458: 127.0.0.1:5102
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 471: 127.0.0.1:5184
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 487: 127.0.0.1:5183
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 498: 127.0.0.1:5128
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 515: 127.0.0.1:5034
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 521: 127.0.0.1:5099
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 552: 127.0.0.1:5093
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 618: 127.0.0.1:5154
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 701: 127.0.0.1:5193
+[19:10:56.482] - INFO - main/IPv4UDPGUIDMapperTest - 717: 127.0.0.1:5047
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 729: 127.0.0.1:5186
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 733: 127.0.0.1:5111
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 746: 127.0.0.1:5027
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 747: 127.0.0.1:5182
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 748: 127.0.0.1:5137, 127.0.0.1:5098
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 823: 127.0.0.1:5100
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 859: 127.0.0.1:5156
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 862: 127.0.0.1:5130
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 884: 127.0.0.1:5042
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1068: 127.0.0.1:5147
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1114: 127.0.0.1:5190
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1165: 127.0.0.1:5155
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1172: 127.0.0.1:5124
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1241: 127.0.0.1:5088
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1258: 127.0.0.1:5169
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1263: 127.0.0.1:5163
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1273: 127.0.0.1:5059
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1321: 127.0.0.1:5096
+[19:10:56.483] - INFO - main/IPv4UDPGUIDMapperTest - 1370: 127.0.0.1:5029
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1395: 127.0.0.1:5146
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1401: 127.0.0.1:5129
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1441: 127.0.0.1:5057
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1468: 127.0.0.1:5038
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1480: 127.0.0.1:5054
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1517: 127.0.0.1:5125
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1698: 127.0.0.1:5121
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1792: 127.0.0.1:5052
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1866: 127.0.0.1:5145
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 1918: 127.0.0.1:5149
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2044: 127.0.0.1:5185
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2047: 127.0.0.1:5123
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2171: 127.0.0.1:5116
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2210: 127.0.0.1:5041
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2324: 127.0.0.1:5194
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2461: 127.0.0.1:5187
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2465: 127.0.0.1:5172
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2478: 127.0.0.1:5188
+[19:10:56.484] - INFO - main/IPv4UDPGUIDMapperTest - 2691: 127.0.0.1:5025
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 2764: 127.0.0.1:5101
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 2834: 127.0.0.1:5090
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 2867: 127.0.0.1:5178
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 2893: 127.0.0.1:5164
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 2907: 127.0.0.1:5198
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3024: 127.0.0.1:5134
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3052: 127.0.0.1:5195
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3075: 127.0.0.1:5126
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3139: 127.0.0.1:5143
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3183: 127.0.0.1:5035
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3216: 127.0.0.1:5138
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3271: 127.0.0.1:5080
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3354: 127.0.0.1:5045
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3399: 127.0.0.1:5153
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3711: 127.0.0.1:5068
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 3984: 127.0.0.1:5024
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 4120: 127.0.0.1:5081
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 4312: 127.0.0.1:5075
+[19:10:56.485] - INFO - main/IPv4UDPGUIDMapperTest - 4378: 127.0.0.1:5005
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4399: 127.0.0.1:5135
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4432: 127.0.0.1:5028
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4596: 127.0.0.1:5014
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4753: 127.0.0.1:5168
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4763: 127.0.0.1:5118
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 4959: 127.0.0.1:5181
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5058: 127.0.0.1:5179
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5157: 127.0.0.1:5084
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5309: 127.0.0.1:5017
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5681: 127.0.0.1:5051
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5762: 127.0.0.1:5061
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 5881: 127.0.0.1:5092
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6012: 127.0.0.1:5079
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6064: 127.0.0.1:5142
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6072: 127.0.0.1:5072
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6139: 127.0.0.1:5117
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6142: 127.0.0.1:5060
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6429: 127.0.0.1:5077
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6460: 127.0.0.1:5122
+[19:10:56.486] - INFO - main/IPv4UDPGUIDMapperTest - 6522: 127.0.0.1:5200
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 6551: 127.0.0.1:5160
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 6593: 127.0.0.1:5120
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 6813: 127.0.0.1:5019
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 6957: 127.0.0.1:5148
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7165: 127.0.0.1:5191
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7190: 127.0.0.1:5083
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7207: 127.0.0.1:5171
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7423: 127.0.0.1:5131
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7448: 127.0.0.1:5167
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7576: 127.0.0.1:5050
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7580: 127.0.0.1:5140
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7870: 127.0.0.1:5192
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 7929: 127.0.0.1:5089
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 8045: 127.0.0.1:5107
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 8072: 127.0.0.1:5119
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 8250: 127.0.0.1:5151
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 8440: 127.0.0.1:5175
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 8884: 127.0.0.1:5162
+[19:10:56.487] - INFO - main/IPv4UDPGUIDMapperTest - 9107: 127.0.0.1:5127
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 9171: 127.0.0.1:5189
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 9388: 127.0.0.1:5018
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 9504: 127.0.0.1:5040
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 9897: 127.0.0.1:5023
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 10305: 127.0.0.1:5103
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 10332: 127.0.0.1:5078
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 10506: 127.0.0.1:5062
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 10764: 127.0.0.1:5105
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 11819: 127.0.0.1:5013
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 11862: 127.0.0.1:5026
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 12293: 127.0.0.1:5170
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 12847: 127.0.0.1:5071
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 13026: 127.0.0.1:5082
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 13978: 127.0.0.1:5110
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 14305: 127.0.0.1:5114
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 14724: 127.0.0.1:5063
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 16270: 127.0.0.1:5011
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 16677: 127.0.0.1:5056
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 16832: 127.0.0.1:5157
+[19:10:56.488] - INFO - main/IPv4UDPGUIDMapperTest - 16847: 127.0.0.1:5073
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 17350: 127.0.0.1:5136
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 17719: 127.0.0.1:5031
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 18261: 127.0.0.1:5097
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 18560: 127.0.0.1:5161
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 18605: 127.0.0.1:5074
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 20328: 127.0.0.1:5049
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 20578: 127.0.0.1:5174
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 20676: 127.0.0.1:5037
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 21268: 127.0.0.1:5064
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 22731: 127.0.0.1:5009
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 24009: 127.0.0.1:5132
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 24504: 127.0.0.1:5139
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 24948: 127.0.0.1:5067
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 25639: 127.0.0.1:5150
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 25823: 127.0.0.1:5033
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 28335: 127.0.0.1:5108
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 29082: 127.0.0.1:5032
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 29323: 127.0.0.1:5008
+[19:10:56.489] - INFO - main/IPv4UDPGUIDMapperTest - 30900: 127.0.0.1:5015
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 31488: 127.0.0.1:5115
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 39089: 127.0.0.1:5048
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 41659: 127.0.0.1:5177
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 43338: 127.0.0.1:5010
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 44250: 127.0.0.1:5043
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 46533: 127.0.0.1:5012
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 46607: 127.0.0.1:5016
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 47976: 127.0.0.1:5002
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 54203: 127.0.0.1:5003
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 56888: 127.0.0.1:5030
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 76423: 127.0.0.1:5001
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 82697: 127.0.0.1:5133
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 90145: 127.0.0.1:5004
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 92154: 127.0.0.1:5007
+[19:10:56.490] - INFO - main/IPv4UDPGUIDMapperTest - 129852: 127.0.0.1:5066
+[19:10:56.491] - INFO - main/IPv4UDPGUIDMapperTest - testExamplePrefixes1 being run...
+[19:10:56.972] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:10:56.975] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:10:56.975] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:01.141] - INFO - main/IPv4UDPGUIDMapperTest - 200 ASes
+[19:11:01.141] - INFO - main/IPv4UDPGUIDMapperTest - 873: 127.0.0.1:5170
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 916: 127.0.0.1:5193
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1087: 127.0.0.1:5164
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1181: 127.0.0.1:5090
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1208: 127.0.0.1:5179
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1256: 127.0.0.1:5196
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1271: 127.0.0.1:5150
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1284: 127.0.0.1:5197
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1378: 127.0.0.1:5174
+[19:11:01.142] - INFO - main/IPv4UDPGUIDMapperTest - 1383: 127.0.0.1:5177
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1429: 127.0.0.1:5159
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1439: 127.0.0.1:5143
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1476: 127.0.0.1:5173
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1486: 127.0.0.1:5191
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1552: 127.0.0.1:5189
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1629: 127.0.0.1:5157
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1633: 127.0.0.1:5171, 127.0.0.1:5161
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1658: 127.0.0.1:5188
+[19:11:01.143] - INFO - main/IPv4UDPGUIDMapperTest - 1702: 127.0.0.1:5187
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 1720: 127.0.0.1:5194
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 1731: 127.0.0.1:5013
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 1734: 127.0.0.1:5079
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 1892: 127.0.0.1:5195
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 1934: 127.0.0.1:5200
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 2085: 127.0.0.1:5151
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 2089: 127.0.0.1:5169
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 2100: 127.0.0.1:5082
+[19:11:01.144] - INFO - main/IPv4UDPGUIDMapperTest - 2124: 127.0.0.1:5158
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2248: 127.0.0.1:5145
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2250: 127.0.0.1:5099
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2269: 127.0.0.1:5155
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2338: 127.0.0.1:5154
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2383: 127.0.0.1:5190
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2388: 127.0.0.1:5107
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2543: 127.0.0.1:5178
+[19:11:01.145] - INFO - main/IPv4UDPGUIDMapperTest - 2570: 127.0.0.1:5095
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2647: 127.0.0.1:5199
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2704: 127.0.0.1:5163
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2707: 127.0.0.1:5139
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2778: 127.0.0.1:5073
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2847: 127.0.0.1:5182
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2891: 127.0.0.1:5148
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 2950: 127.0.0.1:5100
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 3059: 127.0.0.1:5140
+[19:11:01.146] - INFO - main/IPv4UDPGUIDMapperTest - 3065: 127.0.0.1:5181
+[19:11:01.147] - INFO - main/IPv4UDPGUIDMapperTest - 3081: 127.0.0.1:5132
+[19:11:01.147] - INFO - main/IPv4UDPGUIDMapperTest - 3105: 127.0.0.1:5136
+[19:11:01.147] - INFO - main/IPv4UDPGUIDMapperTest - 3111: 127.0.0.1:5105
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3166: 127.0.0.1:5135
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3170: 127.0.0.1:5144
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3198: 127.0.0.1:5149
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3266: 127.0.0.1:5146
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3342: 127.0.0.1:5172
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3376: 127.0.0.1:5142
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3464: 127.0.0.1:5106
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3500: 127.0.0.1:5108
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3521: 127.0.0.1:5084
+[19:11:01.148] - INFO - main/IPv4UDPGUIDMapperTest - 3525: 127.0.0.1:5160
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3628: 127.0.0.1:5165
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3742: 127.0.0.1:5186
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3745: 127.0.0.1:5184
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3789: 127.0.0.1:5156
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3815: 127.0.0.1:5096
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3825: 127.0.0.1:5152
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3831: 127.0.0.1:5058
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3856: 127.0.0.1:5175
+[19:11:01.149] - INFO - main/IPv4UDPGUIDMapperTest - 3920: 127.0.0.1:5121
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 3945: 127.0.0.1:5147
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4005: 127.0.0.1:5102
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4008: 127.0.0.1:5122
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4068: 127.0.0.1:5092
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4196: 127.0.0.1:5059
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4216: 127.0.0.1:5072
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4239: 127.0.0.1:5120
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4309: 127.0.0.1:5162, 127.0.0.1:5097
+[19:11:01.150] - INFO - main/IPv4UDPGUIDMapperTest - 4330: 127.0.0.1:5088
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4367: 127.0.0.1:5062
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4378: 127.0.0.1:5167
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4442: 127.0.0.1:5109
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4459: 127.0.0.1:5026
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4479: 127.0.0.1:5128
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4504: 127.0.0.1:5185
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4509: 127.0.0.1:5168
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4556: 127.0.0.1:5044
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4575: 127.0.0.1:5093
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4698: 127.0.0.1:5065
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4769: 127.0.0.1:5134
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4780: 127.0.0.1:5118
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4791: 127.0.0.1:5126
+[19:11:01.151] - INFO - main/IPv4UDPGUIDMapperTest - 4916: 127.0.0.1:5180
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 4973: 127.0.0.1:5074
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5132: 127.0.0.1:5083
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5211: 127.0.0.1:5141
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5247: 127.0.0.1:5125
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5254: 127.0.0.1:5081
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5272: 127.0.0.1:5080
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5356: 127.0.0.1:5183
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5396: 127.0.0.1:5043
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5407: 127.0.0.1:5114
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5690: 127.0.0.1:5040
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5694: 127.0.0.1:5110
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5766: 127.0.0.1:5086
+[19:11:01.152] - INFO - main/IPv4UDPGUIDMapperTest - 5905: 127.0.0.1:5116
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 5982: 127.0.0.1:5133, 127.0.0.1:5087
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6046: 127.0.0.1:5192
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6198: 127.0.0.1:5166
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6259: 127.0.0.1:5104
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6408: 127.0.0.1:5042
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6472: 127.0.0.1:5061
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6506: 127.0.0.1:5127
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6656: 127.0.0.1:5111
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6695: 127.0.0.1:5098
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 6918: 127.0.0.1:5138
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 7016: 127.0.0.1:5124
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 7107: 127.0.0.1:5131
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 7478: 127.0.0.1:5119
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 7494: 127.0.0.1:5129
+[19:11:01.153] - INFO - main/IPv4UDPGUIDMapperTest - 7655: 127.0.0.1:5069
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 7684: 127.0.0.1:5024
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 7749: 127.0.0.1:5076, 127.0.0.1:5117
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 7767: 127.0.0.1:5094
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 7904: 127.0.0.1:5089
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 7916: 127.0.0.1:5015
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8140: 127.0.0.1:5047
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8152: 127.0.0.1:5037
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8332: 127.0.0.1:5068
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8401: 127.0.0.1:5036
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8582: 127.0.0.1:5077
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8584: 127.0.0.1:5039
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8686: 127.0.0.1:5030
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8702: 127.0.0.1:5070
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8793: 127.0.0.1:5153
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 8830: 127.0.0.1:5052
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 9068: 127.0.0.1:5064
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 9141: 127.0.0.1:5130
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 9176: 127.0.0.1:5071
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 9450: 127.0.0.1:5028
+[19:11:01.154] - INFO - main/IPv4UDPGUIDMapperTest - 9822: 127.0.0.1:5101
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 9934: 127.0.0.1:5054
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 10087: 127.0.0.1:5031
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 10129: 127.0.0.1:5085
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 10188: 127.0.0.1:5198
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 10669: 127.0.0.1:5176
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 10830: 127.0.0.1:5066
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 11172: 127.0.0.1:5060
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 11325: 127.0.0.1:5033
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 11704: 127.0.0.1:5046
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 11946: 127.0.0.1:5067
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 12151: 127.0.0.1:5017
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 12221: 127.0.0.1:5063
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 12279: 127.0.0.1:5032
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 13789: 127.0.0.1:5022
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 13804: 127.0.0.1:5057
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 13989: 127.0.0.1:5014
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 14006: 127.0.0.1:5113
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 14610: 127.0.0.1:5018
+[19:11:01.155] - INFO - main/IPv4UDPGUIDMapperTest - 15617: 127.0.0.1:5075
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 16111: 127.0.0.1:5008
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 16152: 127.0.0.1:5041
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 16214: 127.0.0.1:5016
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 16643: 127.0.0.1:5038
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 17130: 127.0.0.1:5025
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 17216: 127.0.0.1:5019
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 17916: 127.0.0.1:5020
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 18093: 127.0.0.1:5048
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 19250: 127.0.0.1:5055
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 19754: 127.0.0.1:5078
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 19783: 127.0.0.1:5005
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 19830: 127.0.0.1:5029
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 20096: 127.0.0.1:5035
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 20470: 127.0.0.1:5051
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 20554: 127.0.0.1:5049
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 20625: 127.0.0.1:5053
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 20712: 127.0.0.1:5115
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 21075: 127.0.0.1:5045
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 21197: 127.0.0.1:5056
+[19:11:01.156] - INFO - main/IPv4UDPGUIDMapperTest - 21320: 127.0.0.1:5091
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 21612: 127.0.0.1:5023
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 23453: 127.0.0.1:5050
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 25486: 127.0.0.1:5009
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 28771: 127.0.0.1:5034
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 28853: 127.0.0.1:5137
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 31111: 127.0.0.1:5103
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 34091: 127.0.0.1:5027
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 34384: 127.0.0.1:5007
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 41447: 127.0.0.1:5011
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 41534: 127.0.0.1:5012
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 42126: 127.0.0.1:5003
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 42146: 127.0.0.1:5006
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 42252: 127.0.0.1:5021
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 42393: 127.0.0.1:5010
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 44721: 127.0.0.1:5002
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 45059: 127.0.0.1:5112
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 56121: 127.0.0.1:5123
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 58796: 127.0.0.1:5004
+[19:11:01.157] - INFO - main/IPv4UDPGUIDMapperTest - 76906: 127.0.0.1:5001
+[19:11:01.158] - INFO - main/IPv4UDPGUIDMapperTest - testExamplePrefixes3 being run...
+[19:11:03.175] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:03.178] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:03.178] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.648] - INFO - main/IPv4UDPGUIDMapperTest - 200 ASes
+[19:11:07.648] - INFO - main/IPv4UDPGUIDMapperTest - 0: 127.0.0.1:5182
+[19:11:07.648] - INFO - main/IPv4UDPGUIDMapperTest - 1: 127.0.0.1:5197, 127.0.0.1:5192
+[19:11:07.648] - INFO - main/IPv4UDPGUIDMapperTest - 2: 127.0.0.1:5166
+[19:11:07.648] - INFO - main/IPv4UDPGUIDMapperTest - 3: 127.0.0.1:5178, 127.0.0.1:5170, 127.0.0.1:5168, 127.0.0.1:5162, 127.0.0.1:5161
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 4: 127.0.0.1:5185, 127.0.0.1:5188, 127.0.0.1:5181, 127.0.0.1:5164, 127.0.0.1:5163
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 5: 127.0.0.1:5195
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 6: 127.0.0.1:5196, 127.0.0.1:5171
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 7: 127.0.0.1:5200, 127.0.0.1:5184, 127.0.0.1:5144
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 8: 127.0.0.1:5169, 127.0.0.1:5142
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 9: 127.0.0.1:5193, 127.0.0.1:5123
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 10: 127.0.0.1:5160, 127.0.0.1:5158, 127.0.0.1:5165
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 11: 127.0.0.1:5180, 127.0.0.1:5167
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 13: 127.0.0.1:5183
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 14: 127.0.0.1:5179, 127.0.0.1:5134
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 15: 127.0.0.1:5172, 127.0.0.1:5176
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 16: 127.0.0.1:5127, 127.0.0.1:5152
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 17: 127.0.0.1:5151
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 18: 127.0.0.1:5186
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 19: 127.0.0.1:5135, 127.0.0.1:5149, 127.0.0.1:5147
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 20: 127.0.0.1:5143
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 22: 127.0.0.1:5125, 127.0.0.1:5137
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 23: 127.0.0.1:5141
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 24: 127.0.0.1:5157, 127.0.0.1:5156, 127.0.0.1:5153
+[19:11:07.649] - INFO - main/IPv4UDPGUIDMapperTest - 26: 127.0.0.1:5146
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 28: 127.0.0.1:5174, 127.0.0.1:5138
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 29: 127.0.0.1:5199
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 31: 127.0.0.1:5154, 127.0.0.1:5115
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 32: 127.0.0.1:5187, 127.0.0.1:5173
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 33: 127.0.0.1:5198, 127.0.0.1:5191, 127.0.0.1:5090
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 36: 127.0.0.1:5108
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 37: 127.0.0.1:5140
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 38: 127.0.0.1:5132
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 39: 127.0.0.1:5118
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 40: 127.0.0.1:5129
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 42: 127.0.0.1:5194
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 43: 127.0.0.1:5128
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 44: 127.0.0.1:5136
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 47: 127.0.0.1:5145
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 51: 127.0.0.1:5159
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 52: 127.0.0.1:5175
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 53: 127.0.0.1:5155
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 56: 127.0.0.1:5107
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 58: 127.0.0.1:5177
+[19:11:07.650] - INFO - main/IPv4UDPGUIDMapperTest - 62: 127.0.0.1:5150
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 79: 127.0.0.1:5105
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 83: 127.0.0.1:5086
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 89: 127.0.0.1:5121
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 90: 127.0.0.1:5100
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 95: 127.0.0.1:5131, 127.0.0.1:5113
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 128: 127.0.0.1:5084
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 132: 127.0.0.1:5109
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 150: 127.0.0.1:5119
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 158: 127.0.0.1:5190, 127.0.0.1:5082
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 167: 127.0.0.1:5093
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 171: 127.0.0.1:5112
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 174: 127.0.0.1:5097
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 175: 127.0.0.1:5106
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 184: 127.0.0.1:5083
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 187: 127.0.0.1:5098
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 193: 127.0.0.1:5088
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 200: 127.0.0.1:5116
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 207: 127.0.0.1:5103
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 220: 127.0.0.1:5085
+[19:11:07.651] - INFO - main/IPv4UDPGUIDMapperTest - 248: 127.0.0.1:5087
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 269: 127.0.0.1:5122
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 274: 127.0.0.1:5124
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 285: 127.0.0.1:5110
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 299: 127.0.0.1:5117
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 309: 127.0.0.1:5066
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 317: 127.0.0.1:5133
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 318: 127.0.0.1:5080
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 319: 127.0.0.1:5074
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 344: 127.0.0.1:5139
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 350: 127.0.0.1:5102
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 355: 127.0.0.1:5067
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 366: 127.0.0.1:5071
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 368: 127.0.0.1:5092
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 371: 127.0.0.1:5060
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 436: 127.0.0.1:5126
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 441: 127.0.0.1:5065
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 449: 127.0.0.1:5101
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 454: 127.0.0.1:5089
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 457: 127.0.0.1:5062
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 488: 127.0.0.1:5120
+[19:11:07.652] - INFO - main/IPv4UDPGUIDMapperTest - 490: 127.0.0.1:5079
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 508: 127.0.0.1:5081
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 518: 127.0.0.1:5130
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 555: 127.0.0.1:5078
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 610: 127.0.0.1:5091
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 626: 127.0.0.1:5148
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 628: 127.0.0.1:5070
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 633: 127.0.0.1:5104
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 667: 127.0.0.1:5054
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 720: 127.0.0.1:5111
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 746: 127.0.0.1:5094
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 945: 127.0.0.1:5096
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1149: 127.0.0.1:5047
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1186: 127.0.0.1:5072
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1214: 127.0.0.1:5048
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1264: 127.0.0.1:5099
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1479: 127.0.0.1:5069
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1598: 127.0.0.1:5036
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1639: 127.0.0.1:5073
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1722: 127.0.0.1:5040
+[19:11:07.653] - INFO - main/IPv4UDPGUIDMapperTest - 1747: 127.0.0.1:5114
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 1773: 127.0.0.1:5045
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 1913: 127.0.0.1:5043
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2098: 127.0.0.1:5018
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2127: 127.0.0.1:5049
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2141: 127.0.0.1:5057
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2265: 127.0.0.1:5076
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2272: 127.0.0.1:5064
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2333: 127.0.0.1:5046
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2377: 127.0.0.1:5058
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2824: 127.0.0.1:5061
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2912: 127.0.0.1:5063
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 2972: 127.0.0.1:5038
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3034: 127.0.0.1:5030
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3107: 127.0.0.1:5051
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3446: 127.0.0.1:5053
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3519: 127.0.0.1:5052
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3622: 127.0.0.1:5041
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3893: 127.0.0.1:5024
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 3994: 127.0.0.1:5055
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 4056: 127.0.0.1:5095
+[19:11:07.654] - INFO - main/IPv4UDPGUIDMapperTest - 4220: 127.0.0.1:5022
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 4279: 127.0.0.1:5035
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 4318: 127.0.0.1:5027
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 4812: 127.0.0.1:5059
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 4946: 127.0.0.1:5020
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 4965: 127.0.0.1:5033
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 5482: 127.0.0.1:5056
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 5875: 127.0.0.1:5050
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 6360: 127.0.0.1:5029
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 6848: 127.0.0.1:5042
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 7229: 127.0.0.1:5034
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 7384: 127.0.0.1:5025
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 7607: 127.0.0.1:5039
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 8578: 127.0.0.1:5044
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 8695: 127.0.0.1:5031
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 8747: 127.0.0.1:5189
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 8776: 127.0.0.1:5026
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 8847: 127.0.0.1:5075
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 9476: 127.0.0.1:5021
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 10171: 127.0.0.1:5005
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 10455: 127.0.0.1:5028
+[19:11:07.655] - INFO - main/IPv4UDPGUIDMapperTest - 14768: 127.0.0.1:5077
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 15356: 127.0.0.1:5006
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 16327: 127.0.0.1:5068
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 17623: 127.0.0.1:5032
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 18171: 127.0.0.1:5015
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 18484: 127.0.0.1:5037
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 20722: 127.0.0.1:5016
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 21874: 127.0.0.1:5013
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 24774: 127.0.0.1:5017
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 27748: 127.0.0.1:5011
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 28103: 127.0.0.1:5002
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 29079: 127.0.0.1:5014
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 33251: 127.0.0.1:5023
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 35111: 127.0.0.1:5007
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 37668: 127.0.0.1:5003
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 48539: 127.0.0.1:5008
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 52126: 127.0.0.1:5010
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 61815: 127.0.0.1:5004
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 92162: 127.0.0.1:5012
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 116007: 127.0.0.1:5019
+[19:11:07.656] - INFO - main/IPv4UDPGUIDMapperTest - 177133: 127.0.0.1:5009
+[19:11:07.657] - INFO - main/IPv4UDPGUIDMapperTest - 855564: 127.0.0.1:5001
+[19:11:07.657] - INFO - main/IPv4UDPGUIDMapperTest - testGetTypes being run...
+[19:11:07.661] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.661] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.662] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.662] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.663] - INFO - main/IPv4UDPGUIDMapperTest - testGetDefaultAddressType being run...
+[19:11:07.665] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.665] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.667] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.667] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.670] - ERROR - main/MessageDigestHasher$MessageDigestThreadLocal - Unable to create message digest from unsupported algorithm.
+java.security.NoSuchAlgorithmException: FOOBAR MessageDigest not available
+	at sun.security.jca.GetInstance.getInstance(GetInstance.java:142)
+	at java.security.Security.getImpl(Security.java:659)
+	at java.security.MessageDigest.getInstance(MessageDigest.java:129)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher$MessageDigestThreadLocal.initialValue(MessageDigestHasher.java:104)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher$MessageDigestThreadLocal.initialValue(MessageDigestHasher.java:79)
+	at java.lang.ThreadLocal.setInitialValue(ThreadLocal.java:141)
+	at java.lang.ThreadLocal.get(ThreadLocal.java:131)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasher.hash(MessageDigestHasher.java:131)
+	at edu.rutgers.winlab.mfirst.mapping.ipv4udp.MessageDigestHasherTest.testBadAlgorithm(MessageDigestHasherTest.java:105)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.runners.BlockJUnit4ClassRunner.runNotIgnored(BlockJUnit4ClassRunner.java:79)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:71)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:49)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:193)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:52)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:191)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:42)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:184)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:236)
+	at org.apache.maven.surefire.junit4.JUnit4TestSet.execute(JUnit4TestSet.java:53)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:123)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:104)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)
+	at org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:175)
+	at org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:107)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:68)
+[19:11:07.670] - ERROR - main/MessageDigestHasher - Unable to hash because "FOOBAR" is not supported.
+[19:11:07.686] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.686] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.688] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.689] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.694] - ERROR - main/IPv4UDPNAO - 127.0.0.1:5001
+[19:11:07.721] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.721] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.724] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.724] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.728] - ERROR - main/IPv4UDPNAO - 127.0.0.1:5001
+[19:11:07.772] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.772] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.776] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.777] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.783] - ERROR - main/IPv4UDPNAO - 127.0.0.1:5001
+[19:11:07.803] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "oops # This line is an error and will be skipped".
+[19:11:07.803] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[19:11:07.806] - WARN - main/IPv4UDPGUIDMapper - Not enough components to parse the line "err # This line is an error and will be skipped".
+[19:11:07.806] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[19:11:07.810] - ERROR - main/IPv4UDPNAO - 127.0.0.1:5001

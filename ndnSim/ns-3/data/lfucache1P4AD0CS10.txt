@@ -1,0 +1,35 @@
+Waf: Entering directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+[1879/1898] cxxprogram: build/scratch/first.cc.3.o -> build/scratch/first
+[1879/1898] cxxprogram: build/scratch/averageDistanceStarRing.cc.6.o -> build/scratch/averageDistanceStarRing
+[1879/1898] cxxprogram: build/scratch/scratch-simulator.cc.1.o -> build/scratch/scratch-simulator
+[1878/1898] cxxprogram: build/scratch/baseline.cc.4.o -> build/scratch/baseline
+[1879/1898] cxxprogram: build/utils/print-introspected-doxygen.cc.4.o -> build/utils/ns3-dev-print-introspected-doxygen-optimized
+[1880/1898] cxxprogram: build/scratch/subdir/scratch-simulator-subdir.cc.2.o -> build/scratch/subdir/subdir
+[1881/1898] cxxprogram: build/utils/test-runner.cc.1.o -> build/utils/ns3-dev-test-runner-optimized
+[1882/1898] cxxprogram: build/scratch/averageDistance.cc.5.o -> build/scratch/averageDistance
+[1883/1898] cxxprogram: build/scratch/generateTrace.cc.8.o -> build/scratch/generateTrace
+[1884/1898] cxxprogram: build/scratch/averageDistanceTrace.cc.7.o -> build/scratch/averageDistanceTrace
+Waf: Leaving directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+'build' finished successfully (10.873s)
+Traceback (most recent call last):
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/.waf-1.7.11-2f760793a9090bf35f69082a250595d9/waflib/Scripting.py", line 97, in waf_entry_point
+    run_commands()
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/.waf-1.7.11-2f760793a9090bf35f69082a250595d9/waflib/Scripting.py", line 155, in run_commands
+    run_command('shutdown')
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/.waf-1.7.11-2f760793a9090bf35f69082a250595d9/waflib/Scripting.py", line 146, in run_command
+    ctx.execute()
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/.waf-1.7.11-2f760793a9090bf35f69082a250595d9/waflib/Context.py", line 87, in execute
+    self.recurse([os.path.dirname(g_module.root_path)])
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/.waf-1.7.11-2f760793a9090bf35f69082a250595d9/waflib/Context.py", line 128, in recurse
+    user_function(self)
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/wscript", line 924, in shutdown
+    visualize=Options.options.visualize)
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/wutils.py", line 215, in run_program
+    return run_argv(execvec, env, cwd=cwd)
+  File "/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/wutils.py", line 132, in run_argv
+    retval = subprocess.Popen(argv, env=proc_env, cwd=cwd).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1327, in _execute_child
+    raise child_exception
+OSError: [Errno 13] Permission denied

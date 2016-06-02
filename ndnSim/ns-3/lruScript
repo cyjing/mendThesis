@@ -1,0 +1,60 @@
+import matplotlib.pyplot as plt
+import subprocess
+
+def getAverageHopCountFromFileDistance(fileName):
+    f = open(fileName, 'r')
+
+    totalPackets = 0.0
+    averageHop = 0.0
+
+    longHop = 0.0
+    dataHop = 0.0
+
+    distanceList = []
+    resultList = []
+    for i in range(0,40):
+        distanceList.append([0,0])
+        
+    timeoutReq = 0
+
+    for line in f:
+        hopSplit = line.split("Hop count: ")
+        timeOuts = line.split("Timeouts ")
+
+        if len(hopSplit) > 1:
+            h = f.next()
+            hopLong = int(hopSplit[1].split("\n")[0])
+            hopData = float(h.split("Data Hop count: ")[1].split("\n")[0])
+            distanceList.append([hopData, hopLong])
+        elif len(timeOuts) > 1:
+            timeoutReq += int(timeOuts[1].split("\n")[0])
+    #print fileName, totalPackets, dataHop/totalPackets, dataHop/longHop
+
+    for i in range(0,40):
+        if (distanceList[i][1]!= 0):
+            resultList.append(distanceList[i][0]/float(distanceList[i][1]))
+        else:
+            resultList.append(0)
+    #return [fileName, totalPackets, longHop/totalPackets, dataHop/longHop]
+    return [resultList, timeoutReq, totalPackets, longHop]
+
+
+def getHopInfoFromAvgDist():
+    trials = 10
+    for csize in range(80,100,20):
+        plotDataX = []
+        plotDataY = []
+        avgTimeout = 0
+        totalPackets = 0
+        for j in range(0, 1):
+            data = getAverageHopCountFromFileDistance("./data/lfucache1P"+str(1)+"AD"+str(0)+"CS"+str(csize)+".txt")
+            for i in range(0,40):
+                plotDataY.append(data[0][i])
+                plotDataX.append(i)
+            avgTimeout += data[1]
+            totalPackets += data[2]
+        print avgTimeout/10, totalPackets/10
+        plt.plot(plotDataX,plotDataY, 'ro')
+        plt.axis([0, 40, 0, 15])
+        plt.show()
+getHopInfoFromAvgDist()

@@ -1,0 +1,122 @@
+Migrations
+
+
+setRemoteControlAddress(scm.iaddr);
+setRemoteControlPort(scm.port);
+    
+    
+
+public FlowPath addFlowPath(SocketAddress binding)
+
+   
+
+      cinfo = new ConnectionInfo(this);
+
+      setupConnectionInfoFields(serverAlias, serverIP, serverPort, typeOfCon, stringGUID);
+
+      cinfo.setupClientController(scm);
+
+      UDPControllerHashMap.registerWithController(controllerIP, cinfo);
+
+      cinfo.setControllerIP(controllerIP);
+
+      // some times due to race condition, channel is treated
+      // as blocking, need to set it to non blocking here
+      dataChannel.configureBlocking(false);
+      // storing primary socket
+      SocketInfo sockInfo = new SocketInfo(dataChannel, socket, nextSocketIdentifier, stringGUID);
+
+      // initial estimation, 1 pkt per RTT.
+
+      sockInfo.setEstimatedRTT(connectTime);
+
+      cinfo.addSocketInfo(nextSocketIdentifier, sockInfo);
+      nextSocketIdentifier++;
+
+      cinfo.inputQueuePutSocketInfo(sockInfo);
+      cinfo.outputQueuePutSocketInfo(sockInfo);
+
+
+This is Client Migration only:
+  /**
+   * ServerName required for GNRS query, store on initial connect. GUID alias or
+   * DNS name
+   */
+  private String                   serverAlias                = "";
+
+  /**
+   * IP after resolving the alias
+   */
+  private InetAddress              serverIP                   = null;
+  
+  
+     probably don't need this first one
+        boolean success = cstate.connecInfo.migrateSocketwithId(InetAddress.getByName(newInterface), 0,
+            cstate.socketObj.getSocketIdentifer(), MSocketConstants.CLIENT_MIG);
+            
+            FlowPathResult res = addSocketToFlow(getFlowID(), SetupControlMessage.MIGRATE_SOCKET, SocketId, rebindAddress,
+            rebindPort, MigrationType);
+        success = res.getSuccessful();
+            cinfo.setMSocketState(MSocketConstants.ACTIVE);
+
+    cinfo.setState(ConnectionInfo.ALL_READY, true);
+            
+
+
+      cinfo = new ConnectionInfo(this);
+          if (localInterface.size() > 0)
+    {
+      controllerIP = localInterface.get(0);
+      //CYJING
+      controllerIP = InetAddress.getLocalHost();
+    }
+
+      setupConnectionInfoFields(serverAlias, serverIP, serverPort, typeOfCon, stringGUID);
+
+      UDPControllerHashMap.registerWithController(controllerIP, cinfo);
+      cinfo.setControllerIP(controllerIP);
+      
+      
+      //TODO, make a socketInfo
+      
+
+      // some times due to race condition, channel is treated
+      // as blocking, need to set it to non blocking here
+      dataChannel.configureBlocking(false);
+      // storing primary socket
+      SocketInfo sockInfo = new SocketInfo(dataChannel, socket, nextSocketIdentifier, stringGUID);
+
+      // initial estimation, 1 pkt per RTT.
+
+      sockInfo.setEstimatedRTT(connectTime);
+
+      cinfo.addSocketInfo(nextSocketIdentifier, sockInfo);
+      nextSocketIdentifier++;
+
+      cinfo.inputQueuePutSocketInfo(sockInfo);
+      cinfo.outputQueuePutSocketInfo(sockInfo);
+      
+      
+
+
+
+Connection Info keeps track of
+
+  private int                      ctrlSendSeq                = 0;
+  private int                      ctrlBaseSeq                = -1;
+  private int                      ctrlAckSeq                 = 0;
+
+  /**
+   * sequence number of next byte to be sent
+   */
+  private int                      dataSendSeq                = 0;
+
+  /**
+   * sequence number of first byte yet to be received
+   */
+  private int                      dataAckSeq                 = 0;
+
+  /**
+   * beginning state
+   */
+  private int                      state                      = READ_WRITE;

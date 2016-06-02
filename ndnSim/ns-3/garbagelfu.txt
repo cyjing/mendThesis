@@ -1,0 +1,17 @@
+Waf: Entering directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+[1084/1890] cxx: src/ndnSIM/model/ndn-app-face.cpp -> build/src/ndnSIM/model/ndn-app-face.cpp.1.o
+../src/ndnSIM/model/ndn-app-face.cpp: In member function ‘virtual void ns3::ndn::AppFace::sendDataCached(const ndn::Data&)’:
+../src/ndnSIM/model/ndn-app-face.cpp:87:24: error: ‘Convert’ has not been declared
+   Ptr<Packet> packet = Convert::ToPacket(data);
+                        ^
+../src/ndnSIM/model/ndn-app-face.cpp:94:30: error: ‘Convert’ has not been declared
+   shared_ptr<const Data> d = Convert::FromPacket<Data>(packet);
+                              ^
+../src/ndnSIM/model/ndn-app-face.cpp:94:54: error: expected primary-expression before ‘>’ token
+   shared_ptr<const Data> d = Convert::FromPacket<Data>(packet);
+                                                      ^
+Waf: Leaving directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+Build failed
+ -> task in 'ns3-ndnSIM' failed (exit status 1): 
+	{task 140395216002128: cxx ndn-app-face.cpp -> ndn-app-face.cpp.1.o}
+['/usr/bin/g++', '-std=c++0x', '-std=c++11', '-O3', '-g', '-Wall', '-Wno-error=deprecated-declarations', '-fstrict-aliasing', '-Wstrict-aliasing', '-march=native', '-fstrict-overflow', '-Wstrict-overflow=5', '-fPIC', '-fPIC', '-pthread', '-Isrc/ndnSIM', '-I../src/ndnSIM', '-Isrc/ndnSIM/NFD', '-I../src/ndnSIM/NFD', '-Isrc/ndnSIM/NFD/daemon', '-I../src/ndnSIM/NFD/daemon', '-Isrc/ndnSIM/NFD/core', '-I../src/ndnSIM/NFD/core', '-I.', '-I..', '-I/usr/local/include', '-I/usr/include', '-DHAVE_SYS_IOCTL_H=1', '-DHAVE_IF_NETS_H=1', '-DHAVE_NET_ETHERNET_H=1', '-DHAVE_PACKET_H=1', '-DHAVE_IS_DEFAULT_CONSTRUCTIBLE=1', '-DHAVE_IS_MOVE_CONSTRUCTIBLE=1', '-DHAVE_CXX_OVERRIDE=1', '-DHAVE_NDN_CXX=1', '-DHAVE_SQLITE3=1', '-DHAVE_IF_TUN_H=1', '../src/ndnSIM/model/ndn-app-face.cpp', '-c', '-o', 'src/ndnSIM/model/ndn-app-face.cpp.1.o']

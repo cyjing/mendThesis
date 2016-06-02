@@ -1,0 +1,96 @@
+gnsHostPort 10.14.0.10:24398
+myGuidEntry cynthiayjing@gmail.com 4BB593236E11229C2911E63F6D286588989248F7
+test3 IP  /10.14.1.1  PORT 52318
+2016-01-12 12:09:00,513 [main] DEBUG edu.umass.cs.msocket.MSocket - connecting to server /10.14.1.1:52318
+2016-01-12 12:09:00,514 [main] INFO  edu.umass.cs.msocket.MSocket - Connected to server at /10.14.1.1:52318local port 38620local IP /10.14.1.6
+2016-01-12 12:09:00,522 [main] DEBUG edu.umass.cs.msocket.MSocket - Connect time 0
+2
+add flow path
+tried to add flow path
+serverPort:  52318serverIP:  /10.14.1.1
+rebindAddress:  /192.168.2.2rebindPort:  0
+tried to add socket
+sendDataAckOnly entered socket ID 1
+failed to add a flow path
+addFlowPath failed /192.168.2.2:0
+
+
+
+2016-01-12 12:10:03,653 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 0send seq num 0
+2016-01-12 12:10:03,654 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 0
+hello world from server
+2016-01-12 12:10:03,655 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 23 Obj.getOutStandingBytes() 23
+2016-01-12 12:10:03,656 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+
+
+
+2016-01-12 12:10:05,656 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 23send seq num 23
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:05,656 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 23
+hello world from server
+2016-01-12 12:10:05,657 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 46 Obj.getOutStandingBytes() 46
+2016-01-12 12:10:05,657 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+
+
+2016-01-12 12:10:07,657 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 46send seq num 46
+2016-01-12 12:10:07,658 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 46
+2016-01-12 12:10:07,658 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 69 Obj.getOutStandingBytes() 69
+2016-01-12 12:10:07,658 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+sendDataAckOnly entered socket ID 1
+
+
+hello world from server
+
+
+2016-01-12 12:10:09,659 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 69send seq num 69
+2016-01-12 12:10:09,660 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 69
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:09,660 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 92 Obj.getOutStandingBytes() 92
+
+
+hello world from server
+
+
+2016-01-12 12:10:09,660 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+2016-01-12 12:10:11,660 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 92send seq num 92
+2016-01-12 12:10:11,661 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 92
+
+sendDataAckOnly entered socket ID 1
+
+
+2016-01-12 12:10:11,661 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 115 Obj.getOutStandingBytes() 115
+2016-01-12 12:10:11,661 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+hello world from serve
+2016-01-12 12:10:13,662 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 115send seq num 115
+2016-01-12 12:10:13,662 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 115
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:13,662 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 138 Obj.getOutStandingBytes() 138
+hello world from server
+2016-01-12 12:10:13,663 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+2016-01-12 12:10:15,663 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 138send seq num 138
+2016-01-12 12:10:15,663 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 138
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:15,664 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 161 Obj.getOutStandingBytes() 161
+hello world from server
+2016-01-12 12:10:15,664 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+2016-01-12 12:10:17,664 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 161send seq num 161
+2016-01-12 12:10:17,665 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 161
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:17,665 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 184 Obj.getOutStandingBytes() 184
+2016-01-12 12:10:17,665 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+hello world from server
+2016-01-12 12:10:19,666 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 184send seq num 184
+sendDataAckOnly entered socket ID 1
+2016-01-12 12:10:19,666 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 184
+2016-01-12 12:10:19,666 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 207 Obj.getOutStandingBytes() 207
+hello world from server
+2016-01-12 12:10:19,666 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+2016-01-12 12:10:21,667 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 23 dataAckSeq 207send seq num 207
+2016-01-12 12:10:21,667 [main] DEBUG edu.umass.cs.msocket.common.policies.RoundRobinWritingPolicy - Using socketID 1Remote IP /10.14.1.1for writing tempDataSendSeqNum 207
+2016-01-12 12:10:21,667 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - socket ID 1 is found to have zero outstanding bytes Remote Address /10.14.1.1 sent bytes 230 Obj.getOutStandingBytes() 230
+2016-01-12 12:10:21,668 [pool-5-thread-1] DEBUG edu.umass.cs.msocket.BackgroundWritingThread - BackgroudMultiPathWritingThread stopped totalRetransmit 0
+sendDataAckOnly entered socket ID 1
+hello world from server
+2016-01-12 12:10:23,668 [main] DEBUG edu.umass.cs.msocket.MWrappedOutputStream - message here length 0 dataAckSeq 230send seq num 230
+2016-01-12 12:10:23,670 [main] INFO  edu.umass.cs.msocket.ConnectionInfo - unregistering with mobility manager and udp controller
+2016-01-12 12:10:25,554 [Thread-9] INFO  edu.umass.cs.msocket.KeepAliveStaticThread - Keep alive static thread exits

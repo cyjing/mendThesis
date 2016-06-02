@@ -1,0 +1,28 @@
+10 root@node1-1
+20 root@node1-2
+30 root@node1-3
+
+git@github.mit.edu:cyjing/MSocketEverything.git
+git@github.mit.edu:cyjing/MSocketEverything.git
+
+
+
+
+random
+best-strategy
+   first   
+      forwards upstream
+      pit entries for that fib must not have current outstanding entries
+   otherwise
+      forwards on face with earliest outstanding entry
+
+access
+   keeps tracks of prefix name measurement info
+   first
+       if there's a face that had been previously sent to, send to same outface
+   otherwise
+       multicast
+
+ncc-strategy
+   keeps measurements of 
+   propagates 

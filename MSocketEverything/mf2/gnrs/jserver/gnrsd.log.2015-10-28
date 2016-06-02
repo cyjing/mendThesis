@@ -1,0 +1,54 @@
+[14:39:59.917] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[14:39:59.921] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[14:40:00.072] - ERROR - main/GNRSServer - Unable to create IPv4/UDP network access.
+java.net.BindException: Cannot assign requested address
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:444)
+	at sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:702)
+	at sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:91)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:109)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:48)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.registerHandles(AbstractPollingConnectionlessIoAcceptor.java:830)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.access$400(AbstractPollingConnectionlessIoAcceptor.java:61)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor$Acceptor.run(AbstractPollingConnectionlessIoAcceptor.java:585)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+[14:40:00.082] - ERROR - main/GNRSServer - Unable to create network access of type ipv4udp
+[14:40:53.873] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[14:40:53.874] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[14:40:53.953] - ERROR - main/GNRSServer - Unable to create IPv4/UDP network access.
+java.net.BindException: Cannot assign requested address
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:444)
+	at sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:702)
+	at sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:91)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:109)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:48)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.registerHandles(AbstractPollingConnectionlessIoAcceptor.java:830)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.access$400(AbstractPollingConnectionlessIoAcceptor.java:61)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor$Acceptor.run(AbstractPollingConnectionlessIoAcceptor.java:585)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+[14:40:53.958] - ERROR - main/GNRSServer - Unable to create network access of type ipv4udp
+[14:53:25.587] - INFO - main/IPv4UDPGUIDMapper - Finished loading prefix map.
+[14:53:25.588] - INFO - main/IPv4UDPGUIDMapper - Finished loading AS network binding values.
+[14:53:25.670] - ERROR - main/GNRSServer - Unable to create IPv4/UDP network access.
+java.net.BindException: Cannot assign requested address
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:444)
+	at sun.nio.ch.DatagramChannelImpl.bind(DatagramChannelImpl.java:702)
+	at sun.nio.ch.DatagramSocketAdaptor.bind(DatagramSocketAdaptor.java:91)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:109)
+	at org.apache.mina.transport.socket.nio.NioDatagramAcceptor.open(NioDatagramAcceptor.java:48)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.registerHandles(AbstractPollingConnectionlessIoAcceptor.java:830)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor.access$400(AbstractPollingConnectionlessIoAcceptor.java:61)
+	at org.apache.mina.core.polling.AbstractPollingConnectionlessIoAcceptor$Acceptor.run(AbstractPollingConnectionlessIoAcceptor.java:585)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+[14:53:25.676] - ERROR - main/GNRSServer - Unable to create network access of type ipv4udp

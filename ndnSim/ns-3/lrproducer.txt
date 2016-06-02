@@ -1,0 +1,205 @@
+Waf: Entering directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+Waf: Leaving directory `/afs/csail.mit.edu/u/c/cyjing/ndnSim2/ns-3/build'
+'build' finished successfully (0.930s)
+0s -1 ndn.Producer:Producer()
+0s 0 ndn.Producer:StartApplication()
+0s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2977048)
+0s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3E
+0.01s 0 ndn.Producer:OnInterest(0x1735cb0, 0x29ba858)
+0.01s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%20
+0.010216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x29fa928)
+0.010216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEW
+0.010216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2a01638)
+0.010216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%01
+0.02s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2a35a08)
+0.02s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%15
+0.020216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2a747d8)
+0.020216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE+
+0.020216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2a7b5c8)
+0.020216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%02
+0.020432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2aabfb8)
+0.020432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%26
+0.020432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2ab3e38)
+0.020432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%04
+0.03s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2ae6898)
+0.03s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0D
+0.030216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b23e18)
+0.030216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEA
+0.030432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b59c28)
+0.030432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0F
+0.030432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b5cd18)
+0.030432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE.
+0.030648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b872d8)
+0.030648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3C
+0.030648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b88268)
+0.030648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE-
+0.03108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2bb2ca8)
+0.03108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%18
+0.031296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2bba798)
+0.031296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEc
+0.04s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2bc2e88)
+0.04s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0C
+0.040216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c02908)
+0.040216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE2
+0.040432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c37918)
+0.040432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1E
+0.040648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c603a8)
+0.040648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%2A
+0.040864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c80b08)
+0.040864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%09
+0.04108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c94778)
+0.04108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0A
+0.041296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c9bfc8)
+0.041296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE1
+0.041728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2ca6188)
+0.041728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%07
+0.041944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2caba78)
+0.041944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEQ
+0.050432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d16358)
+0.050432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%08
+0.050432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d19418)
+0.050432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1D
+0.050648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d42ab8)
+0.050648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%06
+0.050648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d44f48)
+0.050648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%16
+0.050864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d658f8)
+0.050864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1B
+0.05108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d7c8a8)
+0.05108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%27
+0.051296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d8b698)
+0.051296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE0
+0.051728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2d96f58)
+0.051728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%5B
+0.05216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2da08d8)
+0.05216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1F
+0.052376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2da4cd8)
+0.052376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE9
+0.060216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2dace08)
+0.060216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0E
+0.060216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2de8ff8)
+0.060216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%24
+0.060432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e17ae8)
+0.060432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEF
+0.060648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e3e238)
+0.060648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEN
+0.060864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e57ac8)
+0.060864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%0B
+0.060864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e59608)
+0.060864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%25
+0.061296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e7dd28)
+0.061296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%21
+0.061728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e8bb98)
+0.061728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1C
+0.061944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e90c58)
+0.061944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEM
+0.062376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2e97648)
+0.062376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%03
+0.070432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2efc868)
+0.070432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%05
+0.07108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f4e118)
+0.07108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%22
+0.071296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f600b8)
+0.071296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE6
+0.071512s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f69dd8)
+0.071512s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEZ
+0.071944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f79758)
+0.071944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%19
+0.07216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f7f688)
+0.07216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%11
+0.072376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f840e8)
+0.072376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE3
+0.08s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f8d948)
+0.08s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEV
+0.080648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3007d28)
+0.080648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3D
+0.080648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30096f8)
+0.080648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE8
+0.080864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3025278)
+0.080864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%10
+0.081296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x303ed38)
+0.081296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEE
+0.081512s 0 ndn.Producer:OnInterest(0x1735cb0, 0x304b868)
+0.081512s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEH
+0.081728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30532a8)
+0.081728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEb
+0.081728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30559b8)
+0.081728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE_
+0.081944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x305c188)
+0.081944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%5E
+0.08216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3061348)
+0.08216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%5D
+0.082592s 0 ndn.Producer:OnInterest(0x1735cb0, 0x306a798)
+0.082592s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEG
+0.090216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30b22a8)
+0.090216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEY
+0.090432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30dc628)
+0.090432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEJ
+0.090648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x30fa3c8)
+0.090648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEP
+0.09108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3118c78)
+0.09108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%40
+0.091296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x31251d8)
+0.091296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%12
+0.091512s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3135478)
+0.091512s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%13
+0.091728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x313d1d8)
+0.091728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%2F
+0.09216s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3144788)
+0.09216s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%14
+0.092376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3148cf8)
+0.092376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEU
+0.092592s 0 ndn.Producer:OnInterest(0x1735cb0, 0x314eeb8)
+0.092592s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3B
+0.093024s 0 ndn.Producer:OnInterest(0x1735cb0, 0x31546a8)
+0.093024s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%1A
+0.1s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2977048)
+0.1s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3F
+0.100648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x31cb548)
+0.100648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FER
+0.10108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x31f4b58)
+0.10108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%17
+0.101296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32002d8)
+0.101296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%28
+0.101296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3203a58)
+0.101296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FET
+0.101512s 0 ndn.Producer:OnInterest(0x1735cb0, 0x320d348)
+0.101512s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%60
+0.101944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3215128)
+0.101944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%2C
+0.102808s 0 ndn.Producer:OnInterest(0x1735cb0, 0x321fad8)
+0.102808s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEX
+0.103024s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3223bb8)
+0.103024s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEB
+0.110432s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3281828)
+0.110432s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FED
+0.110864s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32ab708)
+0.110864s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE5
+0.11108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32b8718)
+0.11108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%3A
+0.11108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32bf448)
+0.11108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE4
+0.111944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32dacc8)
+0.111944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%5C
+0.112376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x32dd808)
+0.112376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%29
+0.121512s 0 ndn.Producer:OnInterest(0x1735cb0, 0x337dc38)
+0.121512s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEd
+0.121728s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3384c08)
+0.121728s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEa
+0.130648s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2b88268)
+0.130648s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE7
+0.131944s 0 ndn.Producer:OnInterest(0x1735cb0, 0x34381d8)
+0.131944s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEI
+0.132376s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2c9cd68)
+0.132376s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FE%23
+0.15108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3564178)
+0.15108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEO
+0.151296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x356d878)
+0.151296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FES
+0.163024s 0 ndn.Producer:OnInterest(0x1735cb0, 0x2f9ac88)
+0.163024s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEL
+0.181296s 0 ndn.Producer:OnInterest(0x1735cb0, 0x3726218)
+0.181296s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEK
+0.19108s 0 ndn.Producer:OnInterest(0x1735cb0, 0x379f4f8)
+0.19108s 0 ndn.Producer:OnInterest(): [INFO ] node(0) respodning with Data: /prefix/0/%FEC
